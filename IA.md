@@ -105,7 +105,7 @@ El cerebro se apoya en los órganos de los sentidos para reunir información sen
    #### 1. La visión
 
    El tercer sentido es el de la vista (también conocido como visión), formado por el cerebro y un par de órganos sensoriales: los ojos. A menudo se piensa que la vista es el más fuerte de los sentidos porque, en cuanto a información sobre el medioambiente, los humanos tienden a depender más de la visión que del oído o el olfato. Cuando usted mira a su alrededor, la luz del espectro visible la detectan los ojos. Rojo, anaranjado, amarillo, verde, azul, añil y violete son los colores del espectro de luz visible. La fuente de esta luz puede provenir de una lámpara, la pantalla de la computadora o del sol.
-   Cuando la luz es reflejada por los objetos que lo rodean, los ojos mandan señales al cerebro y se crea una imagen reconocible. Los ojos utilizan la luz para leer, discernir      entre un color y otro, incluso para coordinar prendas de vestir y crear un atuendo combinado.
+   Cuando la luz es reflejada por los objetos que lo rodean, los ojos mandan señales al cerebro y se crea una imagen reconocible. Los ojos utilizan la luz para leer, discernir entre un color y otro, incluso para coordinar prendas de vestir y crear un atuendo combinado.
 
    #### 2. La audición
 
@@ -144,7 +144,7 @@ El cerebro se apoya en los órganos de los sentidos para reunir información sen
 
    En la actualidad uno de los proyectos más ambiciosos de la informática es la inteligencia artificial, por tal motivo es difícil definir exactamente qué es y los alcances que tiene. Es de fundamental importancia conocer los orígenes de su nombre, es decir el significado de la palabra inteligencia y así mismo el de la palabra artificial, mismos que según (Arauz, 1998) son: 
 
-   * Inteligencia, es la potencia intelectiva, la facultad de conocer o de entender. El grado en que un individuo puede resolver satisfactoriamente una nueva situación o un problema. La inteligencia está basada en el nivel de conocimientos individuales y en la habilidad de manipular y reformular apropiadamente los conocimientos en base a los datos que se proporcionan como requerimientos para resolver algún problema o situación. 
+   * Inteligencia, es la potencia intelectiva, la facultad de conocer o de entender. El grado en que un individuo puede resolver satisfactoriamente una nueva situación o un problema. La inteligencia está basada en el nivel de conocimientos individuales y en la habilidad de manipular y reformular apropiadamente los conocimientos en base a los datos que se proporcionan como requerimientos para resolver algún problema o situación.
 
    * Artificial, es lo hecho por mano y arte del hombre, falso, no natural.
 
@@ -285,11 +285,11 @@ Arquitecturas para construir agentes:
 
    * Tres formas críticas en las que Big Data está potenciando IA:
 
-   1. *La tecnología de Big Data:* ahora, las empresas y sus proyectos de inteligencia artificial tienen la capacidad de acceder a grandes volúmenes de información. A partir de ahí, están en disposición de procesar enormes cantidades de datos que antes requerían hardware y software extremadamente costosos.
+   1. **La tecnología de Big Data:** ahora, las empresas y sus proyectos de inteligencia artificial tienen la capacidad de acceder a grandes volúmenes de información. A partir de ahí, están en disposición de procesar enormes cantidades de datos que antes requerían hardware y software extremadamente costosos.
 
-   2. *Disponibilidad de grandes conjuntos de datos:* ICR (Information Collection Request), transcripción, archivos de voz e imagen, datos meteorológicos y datos logísticos están ahora disponibles en formas que nunca fueron posibles en el pasado. A día de hoy, incluso los viejos ficheros "originados en papel" están también disponibles en formato digital.
+   2. **Disponibilidad de grandes conjuntos de datos:** ICR (Information Collection Request), transcripción, archivos de voz e imagen, datos meteorológicos y datos logísticos están ahora disponibles en formas que nunca fueron posibles en el pasado. A día de hoy, incluso los viejos ficheros "originados en papel" están también disponibles en formato digital.
 
-   3. *Machine learning a escala:* los algoritmos "escalados" tales como redes neuronales recurrentes y deep learning están impulsando el avance de la IA Inteligencia Artificial.
+   3. **Machine learning a escala:** los algoritmos "escalados" tales como redes neuronales recurrentes y deep learning están impulsando el avance de la IA Inteligencia Artificial.
 
    Desde la catalogación de datos hasta su comprensión, la Inteligencia Artificial ofrece nuevas e interesantes oportunidades para gestionar grandes volúmenes de información. Estas son las principales ventajas:
 
@@ -326,6 +326,20 @@ Arquitecturas para construir agentes:
    ![Conclusiones-IA](https://www.tekcrispy.com/wp-content/uploads/2020/02/4f06b7b2-753e-48b3-bb8f-777ca2653210_30212411048_2a1d7200e2_b-640x364.jpg)
 
    #### 2. Procesamineto
+
+   * Procesamiento del lenguaje natural
+
+   El Procesamiento del Lenguaje Natural es el campo de conocimiento de la Inteligencia Artificial que se ocupa de la investigar la manera de comunicar las máquinas con las personas mediante el uso de lenguas naturales, como el español, el inglés o el chino.
+   Tratar computacionalmente una lengua implica un proceso de modelización matemática. Los ordenadores solo entienden de bytes y dígitos y los informáticos codifican los programas empleando lenguajes de programación como C, Python o Java. Los lingüistas computacionales se encargan de la tarea de “preparar” el modelo lingüístico para que los ingenieros informáticos lo implementen en un código eficiente y funcional. Básicamente, existen dos aproximaciones generales al problema de la modelización lingüística:
+
+   1. Modelos lógicos: gramáticas 
+
+   En los modelos lógicos, los lingüistas escriben reglas de reconocimiento de patrones estructurales, utilizando un formalismo gramatical concreto. Los patrones estructurales son definidos por estas reglas y por la información almacenada en diccionarios computacionales.
+
+   2. Modelos probabilísticos
+
+   En los modelos probabilísticos, el proceso es a la inversa: los lingüistas recogen un corpus de ejemplos y datos y, a partir de estas colecciones, se calcula la frecuencia con la que las unidades lingüísticas aparecen en un contexto determinado (por ejemplo, frecuencia en la que aparece la palabra "tarjeta" en la colección de ejemplos y datos). Con este cálculo, podemos predecir cuál será la siguiente unidad en un contexto dado (siguiendo con el ejemplo anterior, se podría calcular la frecuencia con la que la palabra "tarjeta" aparece unida a "sanitaria"). Esto es el paradigma de "aprendizaje automático": los algoritmos infieren las posibles respuestas a partir de los datos observados anteriormente en el corpus.
+   
    #### 1. Razonamiento
    #### 2. Representacion de conocimiento (modelo del mundo)
    #### 3. Aprendizaje automático
